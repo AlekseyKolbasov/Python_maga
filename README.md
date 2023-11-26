@@ -1,4 +1,4 @@
-# Python_maga
+# weather
 План разработки
 
 1) Данные о погоде в конкретном городе планируется получать через [API openweathermap](https://openweathermap.org/current). Для этого будем использовать бибилиотеку requests.
